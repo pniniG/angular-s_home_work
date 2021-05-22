@@ -1,0 +1,61 @@
+[{
+ "name":"aron",
+ "roleId":1,
+ "salary":3000
+},
+{
+    "name":"roni",
+    "roleId":1,
+    "salary":3500
+},
+{
+    "name":"chaya",
+    "roleId":1,
+    "salary":3250
+},
+{
+    "name":"israel",
+    "roleId":2,
+    "salary":15000
+},
+{
+    "name":"tziyon",
+    "roleId":2,
+    "salary":17000
+},
+{
+    "name":"motty",
+    "roleId":1,
+    "salary":16000
+},
+{
+    "name":"shimi",
+    "roleId":2,
+    "salary":15000
+},
+{
+    "name":"tehila",
+    "roleId":2,
+    "salary":18000
+},
+{
+    "name":"ggg",
+    "roleId":3,
+    "salary":7000
+},
+{
+    "name":"shira",
+    "roleId":3,
+    "salary":8000
+},
+{
+    "name":"ben",
+    "roleId":4,
+    "salary":22000
+},
+{
+    "name":"dan",
+    "roleId":4,
+    "salary":23000
+}
+]

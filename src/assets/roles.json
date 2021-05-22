@@ -1,0 +1,18 @@
+[
+    {
+        "id":1,
+        "role":"cleaner"
+    },
+    {
+        "id":2,
+        "role":"software developer"
+    },
+    {
+        "id":3,
+        "role":"qa"
+    },
+    {
+        "id":4,
+        "role":"hardware developer"
+    }
+]
